@@ -10,7 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-imagemin": "^0.8.1",
-    "grunt-imageoptim": "^1.4.1"
+    "grunt-contrib-imagemin": "^0.8.1"
   }
 }
